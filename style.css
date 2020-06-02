@@ -1,0 +1,96 @@
+.fundo {
+ padding: 10px;
+    margin: 10px;
+    background-color:black ;
+}
+
+
+.red-color{
+color:red;
+}
+
+.body {
+     font-family: sans-serif;
+     color: black;
+     line-height: 16px;
+     padding-right:5px ;
+}
+
+.pequeno {
+width:85% ;
+
+}
+
+
+
+
+.half-width{
+    width: 93%;
+    float: left;
+}
+
+.side-img{
+    width: 100%;
+    padding-left: 0%;
+}
+
+.primary-btn{
+    color: black;
+    background-color:red;
+    padding: 13px 42px 13px 42px;
+    border-radius: 7px;
+    text-decoration:none;
+}
+
+.h1{
+    font-size: 2.3em;
+}
+
+.container{
+padding-left:1%
+padding-right:1%
+display: inline block
+}
+
+.experiences{
+    padding: 56px;9
+    margin: 37px;
+    background-color:gray;
+    border-radius: 10px;
+}
+
+
+
+.cinzacont{
+    padding: 15px;
+    margin: 20px;
+    background-color:gray;
+    border-radius: 10px;
+}
+
+
+
+.experience-item{
+    padding: 10px;
+    border-left: 1px solid rgba(137, 130, 247, .2);
+}
+
+.botaoverm{
+    text-align:center;
+    color: black;
+    background-color:red;
+    padding: 12px 50px 12px 50px;
+    border-radius: 7px;
+    text-decoration:none;
+}
+
+
+.botaocont{
+    text-align:center;
+    line-height: 12px;
+    color: black;
+    background-color:red;
+    padding: 10px 20px 10px 8px;
+    border-radius: 7px;
+    text-decoration:none;
+}
